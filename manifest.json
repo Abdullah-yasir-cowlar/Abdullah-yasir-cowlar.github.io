@@ -1,0 +1,15 @@
+{
+    "name": "Simple Service Worker",
+    "short_name": "SW",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "orange",
+    "background_color": "white",
+    "icons": [
+        {
+            "src": "/images/gear-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
